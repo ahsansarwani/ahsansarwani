@@ -1,5 +1,5 @@
 # 🧑‍💻 About Me:
-🔭 I’m currently working on CMS Using Python<br>👯 I’m looking to collaborate on Front End Projects<br>🌱 I’m currently learning C#<br>💬 Ask me about coding<br>⚡ Fun fact I know Linux
+🔭 I’m currently working on CMS Using Python<br>👯 I’m looking to collaborate on Front End Projects<br>🌱 Constantly Learning New JS Frameworks<br>💬 Ask me about coding<br>⚡ Fun fact I know Linux
 
 
 ## 🌐 Socials:
